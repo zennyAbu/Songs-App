@@ -1,0 +1,8 @@
+The Songs Menu options.
+Enter:
+1. Print all Songs.
+2. Add a Song.
+3. Update a Song.
+4. Delete a Song.
+5. Report.
+6. Exit the Song App.
